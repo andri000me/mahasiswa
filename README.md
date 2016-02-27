@@ -1,0 +1,2 @@
+# mahasiswa
+program mahasiswa sederhana
